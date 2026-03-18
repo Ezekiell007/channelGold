@@ -1,55 +1,91 @@
-# 🟡 channelGold (CHG) – Projeto Oficial
+# 💎 ChannelGold (CHG)
 
-[![Status](https://img.shields.io/badge/status-em%20construção-yellow)](#) [![Blockchain](https://img.shields.io/badge/blockchain-Solana-blue)](#) [![License](https://img.shields.io/badge/license-MIT-green)](#)
-
-**channelGold (CHG)** é um token criado na **blockchain Solana**, projetado para oferecer **transações rápidas, baixas taxas e escalabilidade** para uma comunidade global de investidores e desenvolvedores.
+**The Luxury Cryptocurrency for Exclusive Digital Experiences**
 
 ---
 
-## 🔹 Sobre o Projeto
-channelGold é uma criptomoeda **comunitária**, criada para ser **transparente, acessível e confiável**. O objetivo é **fortalecer a comunidade de usuários**, proporcionando recursos que vão desde **facilidade de compra e venda** até **participação em iniciativas colaborativas da rede**.
+## 🚀 About ChannelGold
+
+**ChannelGold (CHG)** is a digital asset designed to build a premium Web3 ecosystem focused on exclusivity, digital ownership, and real utility.
+
+The project aims to combine **luxury, blockchain technology, and community** to create a unique experience for users and collectors.
 
 ---
 
-## 🚀 Recursos Principais
-- **Transações Rápidas:** aproveite a velocidade da Solana  
-- **Baixas Taxas:** economize em cada transferência  
-- **Transparência:** todas as operações visíveis na blockchain  
-- **Suporte Comunitário:** participação ativa da comunidade  
+## 💎 Utility
+
+ChannelGold is designed with real use cases inside its ecosystem:
+
+* 🎨 Purchase of exclusive NFTs
+* 👑 Access to VIP features and premium experiences
+* 💰 Future staking system (rewards not guaranteed)
+* 🌐 Integration with future ChannelGold platforms
 
 ---
 
-## 🗺️ Roadmap
-1. **Fase 1:** Criação do token e lançamento do repositório  
-2. **Fase 2:** Desenvolvimento da comunidade e parcerias estratégicas  
-3. **Fase 3:** Listagem em exchanges descentralizadas  
-4. **Fase 4:** Expansão de funcionalidades e suporte a novos projetos  
+## 🛒 How to Buy CHG
+
+1. Create a wallet (e.g. Phantom)
+2. Buy SOL (Solana)
+3. Go to Raydium
+4. Paste the ChannelGold contract
+5. Swap SOL for CHG
 
 ---
 
-## 🤝 Como Contribuir
-Se você é desenvolvedor ou entusiasta da blockchain, **sua colaboração é bem-vinda**:  
-1. Faça um fork deste repositório  
-2. Abra issues para sugestões ou melhorias  
-3. Envie pull requests com novos recursos ou correções  
+## 🔗 Contract Address
+
+```
+6PSM1TeNnBSkvLfXq3Y3NAR4DnAL4mZ1ZQQf6imaLN7n
+```
+
+**Network:** Solana
 
 ---
 
-## 📦 Como Comprar o Token
-- Adicione a carteira **Phantom** ou qualquer carteira compatível com Solana  
-- Compre o token diretamente na **exchange descentralizada (DEX)**  
-- Participe da **comunidade** e fique por dentro das novidades  
+## 📊 Roadmap
 
-> ⚠️ **Aviso:** Lembre-se de sempre verificar o contrato oficial do token antes de comprar.  
+### Phase 1
+
+* Token launch
+* Brand identity creation
+
+### Phase 2
+
+* NFT launch
+* Community growth
+
+### Phase 3
+
+* Staking development
+* Strategic partnerships
+
+### Phase 4
+
+* ChannelGold platform
+* Ecosystem expansion
 
 ---
 
-## 📱 Contato e Comunidade
-- **Twitter:** [@channelGold](#)  
-- **Telegram:** [Link do Grupo](#)  
-- **Discord:** [Link do Servidor](#)  
+## 🌐 Official Links
+
+* Twitter: (add your link)
+* NFT Marketplace: (add your link)
+* Website: (coming soon)
 
 ---
 
-## 📄 Licença
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo LICENSE para mais detalhes.  
+## ⚠️ Disclaimer
+
+ChannelGold is a project in development.
+
+* This is not financial advice
+* There is no guarantee of profits
+* Cryptocurrency investments involve risk
+* Always do your own research (DYOR)
+
+---
+
+## 👑 Vision
+
+To become a recognized luxury digital asset in the Web3 space, combining **exclusivity, utility, and innovation**.
